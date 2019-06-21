@@ -6,6 +6,9 @@
 * [MasterPage.master.cs](./CS/TestGridViewSite81/MasterPage.master.cs) (VB: [MasterPage.master.vb](./VB/TestGridViewSite81/MasterPage.master.vb))
 <!-- default file list end -->
 # How to show items with different fonts in the ASPxPopupMenu
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e557)**
+<!-- run online end -->
 
 
 <p>This can be implemented using controls with different fonts in the Item's TextTemplate container.</p>
